@@ -3,6 +3,7 @@
 ## Overview and Origin
 
 * Name of company
+Charles Schwab
 
 * When was the company incorporated?
 
