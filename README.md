@@ -98,3 +98,27 @@ Schwab can leverage more of AI and machine learning technques.
 
 * Why are these technologies appropriate for your solution?
 The deep learning skills can process complex problems and learn human habits very quickly.  For many organizaions, lack of data can be a challenge, while for Schwab, considering the large amount of data Schwab has, it will be a good solution to investors.
+
+Resources:
+
+1.	https://www.worth.com/charles-schwab-on-changing-the-way-americans-invest/
+2.	https://www.financial-planning.com/news/schwab-intelligent-portfolios-premium-adds-1b-in-aum
+3.	https://www.bloomberg.com/news/features/2018-10-02/charles-schwab-on-his-3-6-trillion-edge-on-the-fintechs
+4.	https://advisorservices.schwab.com/serving-your-clients/our-technology-strategy-maximizing
+5.	https://www.sec.gov/news/speech/speech-clayton-2018-05-02
+6.	https://www.investopedia.com/terms/r/roboadvisor-roboadviser.asp
+7.	https://www.roboadvisorpros.com/robo-advisors-with-most-aum-assets-under-management/
+8.	https://www.thebalance.com/how-millennials-are-investing-these-days-4174110
+9.	https://www.investopedia.com/articles/personal-finance/010616/pros-cons-using-roboadvisor.asp
+10.	https://www.roboadvisorpros.com/robo-investment-advice-pros-and-cons/
+11.	https://www.investopedia.com/robo-advisors-2019-where-have-all-the-assets-gone-4767826
+12.	https://www.investopedia.com/charles-schwab-intelligent-portfolios-review-4692523
+13.	https://craft.co/charles-schwab/competitors
+14.	https://www.financial-planning.com/news/schwab-intelligent-portfolios-premium-adds-1b-in-aum
+15.	https://investorjunkie.com/39634/schwab-intelligent-portfolios-review/
+16.	https://www.worth.com/charles-schwab-on-changing-the-way-americans-invest/
+17.	https://www.bloomberg.com/news/features/2018-10-02/charles-schwab-on-his-3-6-trillion-edge-on-the-fintechs
+18.	https://www.bankrate.com/investing/brokerage-reviews/charles-schwab/
+19.	https://www.schwab.com/public/schwab/investment_advice/what_is_a_robo_advisor
+20.	https://www.nerdwallet.com/reviews/investing/advisors/vanguard-personal-advisor-services
+21.	https://en.wikipedia.org/wiki/Charles_Schwab_Corporation
