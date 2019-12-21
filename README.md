@@ -122,3 +122,4 @@ Resources:
 19.	https://www.schwab.com/public/schwab/investment_advice/what_is_a_robo_advisor
 20.	https://www.nerdwallet.com/reviews/investing/advisors/vanguard-personal-advisor-services
 21.	https://en.wikipedia.org/wiki/Charles_Schwab_Corporation
+22. https://blogs.cfainstitute.org/investor/2019/05/15/seven-trends-in-investment-management-ronald-n-kahn/
