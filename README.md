@@ -89,8 +89,12 @@ Charles Schwab performs well relative to competitors.
 Again, the ultimate goal for Charles Schwab shouldn't be just selling more products, but to build a financial hub such as Ant Financial.
 
 * Why do you think that offering this product or service would benefit the company?
-Ultimately, the benefit of digital transformation is not only efficiency or selling more products, but the network effect from a platform or an eco-system.  At the level of Charles Schwab, it should leveage the large amount information it has to understand markets, clients and 
+Ultimately, the benefit of digital transformation is not only efficiency or selling more products, but the network effect from a platform or an eco-system to achieve ubiquity.  At the level of Charles Schwab, it should leveage the large amount information it has as a huge advantage to build a platform similar to FaceBook or Google. 
+
+I suspect Schwab is doing something like that, because it is actively integrating with third-party applications through its API.
 
 * What technologies would this additional product or service utilize? 
+Schwab can leverage more of AI and machine learning technques. 
 
 * Why are these technologies appropriate for your solution?
+The deep learning skills can process complex problems and learn human habits very quickly.  For many organizaions, lack of data can be a challenge, while for Schwab, considering the large amount of data Schwab has, it will be a good solution to investors.
