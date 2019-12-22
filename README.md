@@ -3,20 +3,25 @@
 ## Overview and Origin
 
 * Name of company
+
 Charles Schwab
 
 * When was the company incorporated?
+
 The Charles Schwab Corporation is a bank and stock brokerage firm based in San Francisco, California. It is ranked 13th on the list of largest banks in the United States and it is also one of the largest brokerage firms in the United States. 
 
 In 1963, Chuck Schwab and two other partners launch Investment Indicator, an investment advisory newsletter. In 1971 April, the firm is incorporated in California as First Commander Corporation, a wholly owned subsidiary of Commander Industries, Inc., to conduct a conventional broker-dealer securities business and publish the Schwab Investment Indicator newsletter.  In 1973, the corporate name changes to Charles Schwab & Co., Inc.  
 
 * Who are the founders of the company?
+
 Information as above.
 
 * How did the idea for the company (or project) come about?
+
 In 1975, the SEC mandates negotiated commission rates for all securities transactions. While many brokerages take the opportunity to raise commissions, Chuck seizes the opportunity to create a new kind of brokerage - a discount brokerage. 
 
 * How is the company funded? How much funding have they received?
+
 Information as above.  Some interesting information:
 Starting from the early days, innovation is in the blood of Charles Schwab.  In 1979, in a "bet-the-company" move, Schwab invests in the BETA mainframe system.  The success of this automated transaction and recordkeeping system demonstrates that technology can be a key growth driver.  Then in 1984, the company launches SchwabQuotes and introduces The Equalizer, a DOS-based technology solution that points the way toward an online future.  In 1989, Schwab introduces TeleBroker, an automated technology for telephone brokerage service.  
 
@@ -33,6 +38,7 @@ More concretely, it is the challenge of longer life expectancy, financial litera
 “Through the many miracles of modern medicine people in America are living longer, which means we’re dependent far longer on investments and savings to take us through retirement. Social Security won’t and can’t cover everything we desire. When the average life expectancy was 65, planning for retirement wasn’t as important. Now, you’ve got this 20- or 30-year period you have to be ready for. Longer life is a great gift, but also a challenge, and I think you’ll see many firms putting focus there. How do you make the most of your savings and do it in a way that is dependable and relatively easy? Today, that is still a struggle for many. It’s an important problem to solve.  And for me personally, helping younger people gain financial knowledge and engage in their financial life early has always been very important. It boils down to education or the lack of it. Most schools don’t teach the elements of why a financial life is so important. We don’t do enough in our country to foster financial literacy, and more focus has to be put there in schools and at work. Because in our system of free enterprise the government is not going to take care of all your needs, so you have to be responsible for taking care of a big chunk of your life.”
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
 As for individual investors, the main targeted customers for Schwab, there are a few statistics:  Forty three million U.S. households hold a retirement or brokerage account.  Fifty six million U.S. households (44% of all households) own at least one U.S. mutual fund.  There are 2,857 registered broker-dealers that serve retail investors, with $3.6 trillion in balance sheet assets and 128 million customer accounts.  There are approximately 7,600 investment advisers registered with the SEC that serve retail investors, with over $12 trillion in retail client assets under management, and approximately 34 million clients.  U.S. broker-dealers and investment advisers employ almost one million people.  
@@ -46,9 +52,11 @@ Charles Schwab implements Robo-advisor through its Schwab Intelligent Advisory, 
 ## Landscape:
 
 * What domain of the financial industry is the company in?
+
 The domain is investment management and brokerage.
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
+
 There are some major trends in investment management and brokerage:
 1. Active to passive: The more or less one-to-one shift from active to passive or index funds is investment management’s elephant in the room.
 2. Increased Competition among Active Managers
@@ -56,6 +64,7 @@ There are some major trends in investment management and brokerage:
 4. Fee compression: Given all these headwinds, fees have come down, even within product categories.
 
 * What are the other major companies in this domain?
+
 There are two types of offerings for robo-advisors.  Standalone companies include:
 1. Sigfig: $120 millions
 2. Betterment: $13.5 millions
@@ -71,17 +80,21 @@ Legacy offerings of Robo-advisors include:
 ## Results
 
 * What has been the business impact of this company so far?
+
 Schwab pockets $34 billions AUM in Schwab Intelligence Advisory, 2nd position in industry.  Compared to the overall market size, it has potential.
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+
 AUM (Asset Under Management) is the metric being used to measure success.  Others including AUM growth rate and # of accounts.  
 
 * How is your company performing relative to competitors in the same domain?
+
 Charles Schwab performs well relative to competitors.
 
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!) 
+
 1. Develop personalized products: One advantage of digitalized product is that we can collect inforamtion about clients to understand clients.  With large amount of data, Schwab can better profile and segment clients and then provide more relevant advisory service.  For example, if someone visits foreign countries often, maybe we should advise global portfolios rather than domestic only.
 2. Charles Schwab can leverage NLP technique to interact with clients, making it easier to collect information.  If a robo-advisor can talk to a client, it will be more human and attractive to clients.
 3. Schwab can build an underlying algorithm "recommender system" to advise relevant products to clients through collaborative filtering.  This is similar to Netflix's movie pick or Amazon's product recommendation.  Again, this is also based on understanding of the overall market and clients.
@@ -89,15 +102,19 @@ Charles Schwab performs well relative to competitors.
 Again, the ultimate goal for Charles Schwab shouldn't be just selling more products, but to build a financial hub such as Ant Financial.
 
 * Why do you think that offering this product or service would benefit the company?
+
 Ultimately, the benefit of digital transformation is not only efficiency or selling more products, but the network effect from a platform or an eco-system to achieve ubiquity.  At the level of Charles Schwab, it should leveage the large amount information it has as a huge advantage to build a platform similar to FaceBook or Google. 
 
 I suspect Schwab is doing something like that, because it is actively integrating with third-party applications through its API.
 
 * What technologies would this additional product or service utilize? 
+
 Schwab can leverage more of AI and machine learning technques. 
 
 * Why are these technologies appropriate for your solution?
+
 The deep learning skills can process complex problems and learn human habits very quickly.  For many organizaions, lack of data can be a challenge, while for Schwab, considering the large amount of data Schwab has, it will be a good solution to investors.
+
 
 Resources:
 
